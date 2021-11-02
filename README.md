@@ -22,7 +22,14 @@ Formado em Ciência da Computação | Desenvolvedor FullStack Jr. - Generation B
   <img align="center" alt="Artur-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" >
   <img align="center" alt="Artur-AWS" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" >
   <img align="center" alt="Artur-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" >
-</div>
+<img align="center" alt="Artur-Spring" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-plain-wordmark.svg" >
+  <img align="center" alt="Artur-Spring" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" >
+  <img align="center" alt="Artur-Postgresql" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" >
+  <img align="center" alt="Artur-Nodejs" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"  >
+   <img align="center" alt="Artur-Mysql" height="60" width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"   >
+  <img align="center" alt="Artur-Ionic" height="80" width="100"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original-wordmark.svg" />
+ 
+  </div>
   
   <div> 
   <a href = "mailto:artur.hugoliga@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
