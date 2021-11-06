@@ -28,7 +28,7 @@ Formado em Ciência da Computação | Desenvolvedor FullStack Jr. - Generation B
   <img align="center" alt="Artur-Nodejs" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"  >
    <img align="center" alt="Artur-Mysql" height="60" width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"   >
   <img align="center" alt="Artur-Ionic" height="80" width="100"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original-wordmark.svg" />
-  <img align="center" alt="Artur-Heroku" height="80" width="100"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg" />
+  <img align="center" alt="Artur-Heroku" height="40" width="50"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg" />
   </div>
   
   <div> 
