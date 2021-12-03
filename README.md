@@ -30,6 +30,14 @@ Formado em Ciência da Computação | Desenvolvedor FullStack Jr. - Generation B
   <img align="center" alt="Artur-Heroku" height="40" width="50"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg" />
   </div>
   
+  <div>
+    <h1>Link dos 3 Ultimos Projeto na Nuvem:<h1>
+      <h4>1º: <a href="https://furandoabolha.netlify.app/#/entrar">https://furandoabolha.netlify.app/#/entrar</a> </h4>
+      <h4>2º: <a href="https://restaurantmaps.herokuapp.com/"> https://restaurantmaps.herokuapp.com/ </a>  </h4> 
+      <h4>3º: <a href="https://artur-sds5.netlify.app">https://artur-sds5.netlify.app<a/>  </h4>
+      
+  </div>
+  
   <div> 
   <a href = "mailto:artur.hugoliga@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/artur-hugo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
