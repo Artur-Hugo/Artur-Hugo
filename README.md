@@ -3,7 +3,7 @@
 
 **Artur-Hugo/Artur-Hugo**
 
-Formado em Ciência da Computação && Desenvolvedor FullStack Jr - Generation Brasil.
+Formado em Ciência da Computação && Desenvolvedor FullStack Jr -Generation Brasil.
 
 <div align="center">
   <a href="https://github.com/Artur-Hugo">
